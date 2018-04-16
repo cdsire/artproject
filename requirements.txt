@@ -1,0 +1,8 @@
+Django==1.11.8
+pytz==2018.3
+six
+future
+httplib2
+django-reversion
+django-formtools
+django-crispy-forms

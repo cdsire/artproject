@@ -1,0 +1,13 @@
+[INFO][2018-04-13 17:32:52,113][basehttp.py][log_message][124]> "GET /xadmin/art/art/ HTTP/1.1" 200 70217
+[INFO][2018-04-13 17:32:52,149][basehttp.py][log_message][124]> "GET /xadmin/jsi18n/ HTTP/1.1" 200 4753
+[INFO][2018-04-13 17:32:53,779][basehttp.py][log_message][124]> "GET /art/detail?id=6 HTTP/1.1" 200 8425
+[WARNING][2018-04-13 17:32:53,803][basehttp.py][log_message][124]> "GET /art/art/static/uploads/%E7%81%B5%E5%BC%82.jpeg HTTP/1.1" 404 4247
+[INFO][2018-04-13 17:32:53,880][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 200 3000
+[INFO][2018-04-13 17:32:55,516][basehttp.py][log_message][124]> "GET /art/detail?id=6 HTTP/1.1" 200 8425
+[WARNING][2018-04-13 17:32:55,536][basehttp.py][log_message][124]> "GET /art/art/static/uploads/%E7%81%B5%E5%BC%82.jpeg HTTP/1.1" 404 4247
+[INFO][2018-04-13 17:32:55,620][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 200 3000
+[INFO][2018-04-13 17:32:57,954][basehttp.py][log_message][124]> "GET /art/index/ HTTP/1.1" 200 11204
+[INFO][2018-04-13 17:32:58,016][basehttp.py][log_message][124]> "GET /static/uploads/180_1.jpeg HTTP/1.1" 304 0
+[INFO][2018-04-13 17:32:58,017][basehttp.py][log_message][124]> "GET /static/uploads/180.jpeg HTTP/1.1" 304 0
+[INFO][2018-04-13 17:32:58,019][basehttp.py][log_message][124]> "GET /static/uploads/150.jpeg HTTP/1.1" 304 0
+[INFO][2018-04-13 17:32:58,045][basehttp.py][log_message][124]> "GET /static/base/images/logo.png HTTP/1.1" 200 3000
